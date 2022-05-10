@@ -1,0 +1,24 @@
+header{
+background:rgb(2, 22, 22);
+bottom:0;
+width:100%;
+padding-top:10px;
+height:20px;
+}
+
+#div1 p{
+    background:rgb(2, 22, 22);
+    color: blanchedalmond;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+}
+
+#firstitle{
+    font-style: oblique;
+}
+
+body{
+    color: burlywood;
+    background:rgb(37, 37, 37);
+}
